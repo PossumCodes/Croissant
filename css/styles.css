@@ -14,9 +14,11 @@ img {
 }
 
 .croissant-introduction {
-  text-align: center;
+  margin: 0 auto;
   font-size: 28px;
   line-height: 1.5;
+  max-width: 800px;
+  text-align: center;
 }
 
 .nav-links {
